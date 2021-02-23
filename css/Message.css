@@ -1,0 +1,14 @@
+button {
+    background-color: crimson;
+    color: white;
+}
+
+button:hover {
+    background-color: mediumaquamarine;
+    color: black;
+}
+
+button:active {
+    background-color: darkblue;
+    color: lightcyan;
+}
